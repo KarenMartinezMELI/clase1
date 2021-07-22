@@ -1,1 +1,3 @@
 tercer archivo
+
+La nueva modificación indicada en el paso 6 de la practica Git
